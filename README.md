@@ -12,9 +12,4 @@
 
 ### 주로 쓰는 것
 
-Kotlin · Spring · Python · TypeScript · JavaScript
-
-<a href="https://github.com/geonoo">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=geonoo&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true" />
-</a>
-<img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geonoo&layout=compact&hide_border=true&langs_count=6" />
+Go · Java · Spring · Python · TypeScript · JavaScript
